@@ -1,0 +1,1 @@
+# Introduction to Object Oriented Programing - a paradigm for code organization and design that view a software program as a collection of objects that interacts with each other
