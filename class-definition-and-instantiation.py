@@ -13,5 +13,5 @@ gbolahan = Person()
 print(qossim)
 print(gbolahan)
 
-dc = DatabaseConnection()
-print(dc)
+daco = DatabaseConnection()
+print(daco)
