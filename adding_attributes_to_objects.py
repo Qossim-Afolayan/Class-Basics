@@ -4,13 +4,13 @@ class Subject():
 #consistent interface
 
 mathematics = Subject()
-physics = Subject()
+chemistry = Subject()
 
 mathematics.school = "Havard"
 mathematics.score = 99
 mathematics.year = 1990
 
-physics.nickname = "Light"
+chemistry.nickname = "Light"
 
 print(mathematics.year)
-print(physics.nickname)
+print(chemistry.nickname)
